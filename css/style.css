@@ -373,7 +373,7 @@ button:focus {
         .home_banner_area .banner_inner .banner_content h3:after {
           content: '';
           width: 410px;
-          height: 2px;
+          height: 0px;
           position: absolute;
           top: 50%;
           left: 23%;
